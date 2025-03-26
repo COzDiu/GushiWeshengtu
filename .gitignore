@@ -1,0 +1,19 @@
+# 安全相关
+.env
+.env.local
+*.env
+
+# 开发环境
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# 系统文件
+Thumbs.db
+
+# 日志与缓存
+*.log
+__pycache__/
+*.py[cod]
